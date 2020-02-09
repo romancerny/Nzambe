@@ -1,3 +1,3 @@
-## Nzambe
+# Nzambe
 
-[how this page is done](https://nicolas-van.github.io/bootstrap-4-github-pages/)
+This page has been created by downloading static template from [bootstrap.com](https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/)
